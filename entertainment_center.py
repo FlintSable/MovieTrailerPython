@@ -1,3 +1,4 @@
+# importing a class and a helper module from these files
 import media
 import fresh_tomatoes
 
